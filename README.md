@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d92727,100:2b0000&height=230&section=header&text=Muhammad%20Saleh&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=exe-ddraig&descSize=18&descAlignY=56&animation=fadeIn" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF4D4D&center=true&vCenter=true&width=700&height=40&repeat=true&lines=$+whoami;exe-ddraig+%7C+BSCS+Student+at+FAST;$+cat+goals.txt;Red+Team+%2F+Offensive+Security+Professional;$+sudo+apt+install+skills;C+%7C+C%2B%2B+%7C+Python+%7C+Java+%7C+Linux" alt="Terminal Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF4D4D&center=true&vCenter=true&width=700&height=40&repeat=true&lines=$+whoami;exe-ddraig+%7C+BSCS+Student+at+FAST;$+cat+goals.txt;Red+Team+%2F+Offensive+Security+Learner;$+sudo+apt+install+skills;C+%7C+C%2B%2B+%7C+Python+%7C+Java+%7C+Linux" alt="Terminal Typing"/>
 </a>
 
 <br/>
