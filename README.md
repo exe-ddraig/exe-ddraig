@@ -61,7 +61,7 @@
 <a href="https://www.threads.com/@exe_ddraig" target="_blank">
   <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
 </a>
-<img src="https://img.shields.io/badge/Discord-exe__ddraig-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 
 </div>
 
