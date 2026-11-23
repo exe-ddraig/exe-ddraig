@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,git,github,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,git,github,linux,mysql&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -45,6 +45,7 @@
 | **Web basics**     | HTML, CSS                                              |
 | **Tools**          | Git, GitHub, Linux                                     |
 | **Coursework**     | Core CS subjects from my first three semesters at FAST |
+| **Database**       | SQL / MySQL                                            |
 
 ---
 
