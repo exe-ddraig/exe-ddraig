@@ -47,7 +47,6 @@
 | **OS**             | Linux (Kali, Ubuntu), Windows                          |
 | **Tools**          | Git, GitHub, Visual Studio, VS Code                    |
 | **Docs**           | LaTeX, Markdown                                        |
-| **Coursework**     | Core CS subjects from my first three semesters at FAST |
 
 ---
 
