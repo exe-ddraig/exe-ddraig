@@ -91,8 +91,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=exe-ddraig&theme=dark&hide_border=true&background=0d1117&stroke=d92727&ring=d92727&fire=ff4d4d&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ff4d4d&sideLabels=c9d1d9&dates=8b949e&border_radius=10" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=exe-ddraig&bg_color=0d1117&color=ff4d4d&line=d92727&point=ffffff&area=true&area_color=d92727&hide_border=true" alt="Activity Graph"/>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,100:d92727&height=120&section=footer" alt="footer"/>
