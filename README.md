@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,git,github,linux,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,mysql,git,github,kali,ubuntu,windows,visualstudio,vscode,latex,md&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -43,9 +43,11 @@
 | **Languages**      | C, C++, Python, Java                                   |
 | **GUI / Graphics** | SDL2, Java Swing                                       |
 | **Web basics**     | HTML, CSS                                              |
-| **Tools**          | Git, GitHub, Linux                                     |
+| **Databases**      | MySQL                                                  |
+| **OS**             | Linux (Kali, Ubuntu), Windows                          |
+| **Tools**          | Git, GitHub, Visual Studio, VS Code                    |
+| **Docs**           | LaTeX, Markdown                                        |
 | **Coursework**     | Core CS subjects from my first three semesters at FAST |
-| **Database**       | SQL / MySQL                                            |
 
 ---
 
