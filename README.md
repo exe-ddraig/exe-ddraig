@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,mysql,git,github,kali,ubuntu,windows,visualstudio,vscode,latex,md&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,mysql,git,github,kali,ubuntu,windows,visualstudio,vscode,latex&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -46,7 +46,6 @@
 | **Databases**      | MySQL                                                  |
 | **OS**             | Linux (Kali, Ubuntu), Windows                          |
 | **Tools**          | Git, GitHub, Visual Studio, VS Code                    |
-| **Docs**           | LaTeX, Markdown                                        |
 
 ---
 
